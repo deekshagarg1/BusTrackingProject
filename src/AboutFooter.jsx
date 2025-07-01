@@ -5,7 +5,7 @@ import React from "react";
 const AboutFooter = () => {
   return (
     <footer className="about-footer">
-        <img src="/download.png" alt="" className="footer-img"  />
+        <img src="/pic.jpg" alt="" className="footer-img"  />
       {/* <img src={profileImage} alt="Vivek Singh Tomar" className="footer-img" /> */}
       <div className="footer-text">
         <p><strong>Vivek Singh Tomar</strong></p>
